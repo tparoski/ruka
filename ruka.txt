@@ -17,3 +17,5 @@ Petrovic Nikola2
 
 Change by nikola
 >>>>>>> Igor
+
+Conflict check
