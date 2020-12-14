@@ -1,6 +1,7 @@
 moja ruka
 tamara
 Igor
+<<<<<<< HEAD
 Milena
 Danijela
 <<<<<<< HEAD
@@ -12,3 +13,7 @@ Vuk
 
 
 Petrovic Nikola2
+=======
+
+Change by nikola
+>>>>>>> Igor
